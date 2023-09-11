@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #95aeb8;
+}
+
+.clock {
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: #932cb6;
+    padding: 80px;
+    border-radius: 200px;
+    box-shadow: 2px black;
+}
+
+.time {
+    display: inline-block;
+}
